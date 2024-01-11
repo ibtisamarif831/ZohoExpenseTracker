@@ -10,7 +10,6 @@ let expenses = [];
 
 // Get all expenses
 app.get("/expenses", (req, res) => {
-  // Return expenses array in the response
   res.json(expenses);
 });
 
