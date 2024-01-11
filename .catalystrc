@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "21004000000007001",
+      "name": "ExpenseTracker",
+      "domain": {
+        "id": "10071153387",
+        "name": "expensetracker-841309168.development"
+      },
+      "timezone": "America/Los_Angeles",
+      "env": [
+        {
+          "idx": 1,
+          "id": "841309168",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
